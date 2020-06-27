@@ -116,11 +116,7 @@ END
 #endif    // !_MAC
 
 #ifdef __MINGW32__
-<<<<<<< HEAD
-1 24 "../../../projects/dpi_aware.manifest"
-=======
 1 24 "${CMAKE_SOURCE_DIR}/os/windows/openttd.manifest"
->>>>>>> jgrpp_master_cmake
 #endif
 
 #endif    // Neutral (Default) resources
